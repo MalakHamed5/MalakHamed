@@ -12,16 +12,6 @@
 
 ---
 
-### 🚀 Tech Stack
-
-- 💙 Flutter & Dart
-- 💡 C++ (STL, Algorithms, Problem Solving)
-- 🐍 Python (Basic scripting, automation)
-- 🛡️ Cybersecurity Basics (Linux, Terminal, Networking)
-- ⚙️ Git & GitHub
-
----
-
 ### 🧠 I'm Currently Learning
 
 - 📚 Advanced Problem Solving in C++
@@ -34,19 +24,31 @@
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/YourUsername"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/></a>
+<p align="center"
   <a href="https://www.linkedin.com/in/MalakHamed/"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/></a>
   <a href="mailto:malakhamed495@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40"/></a>
 </p>
